@@ -1,2 +1,1 @@
-# Pranav
-repository
+overthinking is bad
