@@ -1,2 +1,1 @@
-# Pranav
-repository
+india is democratic country
