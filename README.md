@@ -1,2 +1,1 @@
-# Pranav
-repository
+My name is Pranav Tiwari
